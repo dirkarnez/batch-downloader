@@ -8,6 +8,8 @@ batch downloader
 - [ ] **file extension**
 - [ ] Optional name
 - [ ] Download location parameter
+- [ ] [mojocn/flash: HTTP断点续传多线程下载原理](https://github.com/mojocn/flash)
+    - [Go进阶49:HTTP断点续传多线程下载原理 | Eric Zhou](https://zh.mojotv.cn/go/go-range-download)
 
 ### Input file format
 ```json
